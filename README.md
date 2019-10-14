@@ -4,5 +4,5 @@ Personal culture mapping tool in which you can compare personal traits, tendings
 ## How to check?
 Write down certain password which you can find below:
 
-*Password: aNihgwXKwS7zlk6*Vr
+* Password: `aNihgwXKwS7zlk6*Vr`
 
